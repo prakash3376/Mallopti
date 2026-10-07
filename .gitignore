@@ -1,0 +1,7 @@
+node_modules
+dist
+.env
+data/mall.db
+data/mall.db-shm
+data/mall.db-wal
+results
